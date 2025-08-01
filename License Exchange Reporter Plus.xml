@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Exchange Reporter Plus " EmailID="crackmanageengine@gmail.com " ExpiryDate="2025-09-15" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSdJRdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblTfRbGaaTTf1PpSQazJPyXf1bSnP9GyyRynPJ3G1xfJdPXGPK9dN7yKuDDZcQ7QPbn9cS7KyTZnca391TpKAQ3KbcAnfP7xPJV" LicenseType="Registered" Name="Demo Exchange Reporter Plus ">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="ManageEngine Exchange Reporter Plus" Type="Professional" Version="4.0.0"/>
+      <Component Name="Mailboxes">
+         <Properties Name="NumberOfMailboxes" Value="30"/>
+      </Component>
+      <Component Name="OWA">
+         <Properties Name="OWA" Value="true"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>vKR4AaOAaO0Vsv2jQL8XMFORvQmKnsv2jQL8XMMgOLXNj8ssvFjRp0I0ITsKLpsRv4RjHvrsviNXCY2gsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
