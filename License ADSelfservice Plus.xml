@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo ADSelfService Plus" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-08-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TQfJTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1acfRXXfTxGdNbp9fPzlpb3G1xfJdP7KRDZdVASAya9dRSVGPTSfVyXfPlDKAQ3KbDTGNQ7Kdla" LicenseType="Registered" Name="Demo ADSelfService Plus">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="ADSelfService Plus" Type="Professional" Version="6.0"/>
+      <Component Name="Domains">
+         <Properties Name="NumberOfDomains" Value="10"/>
+      </Component>
+      <Component Name="DomainUsers">
+         <Properties Name="NumberOfUsers" Value="30"/>
+      </Component>
+      <Component Name="EndpointMFA">
+         <Properties Name="ALL_FEATURES" Value="true"/>
+         <Properties Name="NumberOfUsers" Value="20"/>
+      </Component>
+	  <Component Name="FailOverService">
+			<Properties Name="FOSEnabled" Value="true"/>
+		</Component>
+		<Component Name="ForwardingServer">
+			<Properties Name="FwsEnabled" Value="true"/>
+		</Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="614-866-1472"/>
+         <Properties Name="LicenseID" Value="614-866-1472"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpWiT1U66EUT16djvsNvY8lWiT1U66EUT16djRvmj4sKPsL8X4vdvsNvY8lvKR4GvLQXNgsvfRv3RvoiN8GRXvRjfvKR4GvLQXNgoOfvY83RvoRv3OL8Xf0WsRvswFORvQmKnvKR4ogrwtAgf7llAAfM4N8jHGNg0VsRvswFORvQmKnsRvswN8Xmjd01sN8XmjdFORvQmKnsN8XmjdGRXGNX4oLXNj8ssvFjRp0I6sKLpsvY83RvoFLvodAdjdj</LicenseKey>
+</License>
