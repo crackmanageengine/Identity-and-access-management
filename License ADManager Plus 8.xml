@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo ADManager Plus " EmailID="crackmanageengine@gmail.com " ExpiryDate="2025-08-30" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TQfcTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblTfRbGaaTTupS9a7xnlcyXfyTTncG971bTfVxGebKc9cGyubTcfNQX9PKQ9ca7zuDTGJQ7Kdla" LicenseType="Registered" Name="Demo ADManager Plus ">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="AdventNet ManageEngine ADManager Plus" Type="Enterprise" Version="8.0.0"/>
+      <Component Name="Domains">
+         <Properties Name="NumberOfDomains" Value="10"/>
+      </Component>
+      <Component Name="ADReports">
+         <Properties Name="NumberOfObjects" Value="20"/>
+      </Component>
+      <Component Name="ADMgmt">
+         <Properties Name="NumberOfUsers" Value="20"/>
+      </Component>
+      <Component Name="ADDelegation">
+         <Properties Name="NumberOfRoles" Value="10"/>
+         <Properties Name="NumberOfDelegation" Value="30"/>
+      </Component>
+      <Component Name="HelpDeskUsers">
+         <Properties Name="NumberOfUsers" Value="10"/>
+      </Component>
+      <Component Name="SelfService">
+         <Properties Name="SelfService" Value="true"/>
+      </Component>
+      <Component Name="Scheduler">
+         <Properties Name="NumberOfSchedulers" Value="20"/>
+         <Properties Name="Scheduler" Value="true"/>
+      </Component>
+      <Component Name="Workflow">
+         <Properties Name="Workflow" Value="true"/>
+         <Properties Name="NumberOfRequesters" Value="10"/>
+         <Properties Name="NumberOfReviewers" Value="20"/>
+         <Properties Name="WorkflowRequester" Value="true"/>
+      </Component>
+	  <Component Name="RiskAndCompliance">
+         <Properties Name="RiskAssessment" Value="true"/>
+         <Properties Name="AccessCertification" Value="true"/>
+      </Component>
+      <Component Name="Migration">
+         <Properties Name="ADMigration" Value="true"/>
+         <Properties Name="NumberOfUsers" Value="30"/>
+      </Component>
+      <Component Name="Automation">
+         <Properties Name="NumberOfAdditionalAutomation" Value="10"/>
+         <Properties Name="Automation" Value="true"/>
+      </Component>
+      <Component Name="FileServer">
+         <Properties Name="NumberOfFileServers" Value="20"/>
+         <Properties Name="FileServer" Value="true"/>
+      </Component>
+      <Component Name="GPO">
+         <Properties Name="GPO" Value="true"/>
+      </Component>
+      <Component Name="TemplateCustomization">
+         <Properties Name="TemplateCustomization" Value="true"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="614-232-668"/>
+         <Properties Name="LicenseID" Value="614-232-668"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+		 <Properties Name="GenerationDate" Value="2025-07-29"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>ZWUi0U5W0Wv4XdNj84XRvNvDGvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpE66UWVWUT16djvsNvY8lE66UWVWUT16djRvmj4sKPsL8X4vdvsNvY8lvKR4Nj84X98mj4sKPv4XLHmvtNj84X98mj4sKPv4XLHmvtvKR4OpDOpDvKR4Rv3RvovL8f0WsRv3RvovL8fFORvQmKnRv3RvovL8fvKR4Nj84Xmj4KA01Nj84Xmj4KALXNj848GGAFORvQmKnNj84Xmj4KA0VsRvswFORvQmKnvKR4Nj84XRi8MdANj84XRi8MvKR4Nj84XY8F84RvPssvYYAvKR44NvmssvssAys8rvYNX8LHmjPGNAys8rvKR4Rv4svKqvrvjLFyRja0WsRvvv83vrFORvQmKn01sRv4svKqvrFORvQmKnvKR4vjLFyRjavjLFyRjavKR4RvLKGvCYo0WsRvLKGvCYoFORvQmKnRvLKGvCYovKR4vY83RvoFLvovY83RvoFLvo01sRvswFORvQmKnsRvswysvdHLvh0VNj84XivLvdFORvQmKn01svLjrFORvQmKnNj84XivLvddA0WsRvswFORvQmKn4miMdA0Ws4YvJQOFORvQmKns4RjHvrdA01sN8XmjdFORvQmKnsN8XmjdGRXGNX4ovs8RHRv4Ng0I0IEsKLpsRviXNXMdAsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>
