@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo M365 Plus " EmailID="crackmanageengine@gmail.com." ExpiryDate="2025-09-30" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybKJfRbGaaTTJVlDfdlTncG971bTfVxGebKd9AbDGucVdRu3GNJA3pQ7Kdla" LicenseType="Registered" Name="Demo M365 Plus ">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="ManageEngine Office365 Manager Plus" Type="Professional" Version="4.8.0"/>
+      <Component Name="Users">
+         <Properties Name="NumberOfUsers" Value="10"/>
+      </Component>
+      <Component Name="HelpDeskUsers">
+         <Properties Name="NumberOfUsers" Value="20"/>
+      </Component>
+      <Component Name="O365BackupAddon">
+         <Properties Name="NumberOfMailboxes" Value="30"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="614-339-442"/>
+         <Properties Name="LicenseID" Value="614-339-442"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpWTTUZVVUT16djvsNvY8lWTTUZVVUT16djRvmj4sKPsL8X4vdvsNvY8l0Vsv2jQL8XMFORvQmKnNjGGAHKyYXb56VO0WsRvswFORvQmKnsRvswysvdHLvh01sRvswFORvQmKnsRvswMgOLXNj8ssvFjRp0IEITsKLpsRviXNXMs56VvY8FFOsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
