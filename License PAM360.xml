@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo PAM360 " EmailID="crackmanageengine@gmail.com " ExpiryDate="2025-08-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TQfJTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblTfRbGaaTTncAyaVR7GcP7KRDZdVuxATKcGzPSAfcQ" LicenseType="Registered" Name="Demo PAM360 ">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Enterprise" Name="PAM360" Type="PAM360" Version="7.5.0"/>
+      <Component Name="Users">
+         <Properties Name="admin" Value="10"/>
+         <Properties Name="resource" Value="20"/>
+         <Properties Name="organization" Value="30"/>
+         <Properties Name="LocalizedPMP" Value="true"/>
+		 <Properties Name="NumberOfCloudAccounts" Value="10"/>
+      </Component>
+      <Component Name="Keymanager">
+         <Properties Name="NoOfTrialKeys" Value="15"/>
+         <Properties Name="KeysTrialDate" Value="20"/>
+         <Properties Name="NumberOfKeys" Value="30"/>
+      </Component>
+      <Component Name="AccessManager">
+         <Properties Name="ConnectionUsers" Value="10"/>
+         <Properties Name="TrialConnectionUsers" Value="15"/>
+         <Properties Name="ConnectionsTrialDate" Value="20"/>
+      </Component>
+	  <Component Name="CloudAccounts">
+         <Properties Name="NumberOfCloudAccounts" Value="20"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="614-3232-999"/>
+         <Properties Name="LicenseID" Value="614-3232-999"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpZZZUWVWVUT16djvsNvY8lZZZUWVWVUT16djRvmj4sKPsL8X4vdvsNvY8l0Ws4NKjYYAGKjLPFORvQmKns4NKjYYAGKjLP0Wv4XdLX8RtsNj84YvNNjP51sRvswNj84YvNNjPLX8Rt01sRvswNj84YvNNjPRviXNXMssvYYA0VskvzFORvQmKn0Wv4XdLX8Rtskvz51skvzLX8RtFOjnRviXNXmkvz01s4NKjYYAGKjLPFORvQmKnvKR4pMpGv98LXYjl0VNj84X98NXiRj0WvYRKjsvR01N8mGXsRvswvs8RHRv4Ng06VMAp0I5Ii06VMApdjdj</LicenseKey>
+</License>
