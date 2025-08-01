@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo ADAudit Plus " EmailID="crackmanageengine@gmail.com " ExpiryDate="2025-09-10" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcRdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblTfRbGaaTTupS9xSa33Aa3G1xfJdPXGPK9dN7yxuxcuRS3KNDJKAQ3KbcAnfz7xPJV" LicenseType="Registered" Name="Demo ADAudit Plus ">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="AdventNet ManageEngine ADAudit Plus" Type="Professional" Version="8.5.0"/>
+      <Component Name="Domains">
+         <Properties Name="NumberOfDomains" Value="10"/>
+      </Component>
+      <Component Name="DomainController">
+         <Properties Name="NumberOfDomainControllers" Value="20"/>
+      </Component>
+      <Component Name="MemberServer">
+         <Properties Name="NumberOfMemberServers" Value="10"/>
+      </Component>
+      <Component Name="FileServer">
+         <Properties Name="NumberOfFileServers" Value="10"/>
+      </Component>
+      <Component Name="CIFSServer">
+         <Properties Name="NumberOfCIFSServers" Value="10"/>
+      </Component>
+      <Component Name="WorkStation">
+         <Properties Name="NumberOfWorkStations" Value="15"/>
+      </Component>
+      <Component Name="CloudDirectory">
+         <Properties Name="NumberOfCloudDirectory" Value="10"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="614-454-666"/>
+         <Properties Name="LicenseID" Value="614-454-666"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8Rp666UT5TUT16djvsNvY8l666UT5TUT16djRvmj4sKPsL8X4vdvsNvY8l01kRj4YvR8dGKjLPFORvQmKnkRj4YvR8dGKjLP51sNj84X4oyRjaFORvQmKnNj84X4oyRja01sRv3RvoofjPFORvQmKnRv3RvoofjP01sRv3RvovL8fFORvQmKnRv3RvovL8f01sRv3RvoRvQmvMFORvQmKnRv3RvoRvQmvM0WsRvLLjR4NjPN8XmjdFORvQmKnRvLLjR4NjPN8Xmjd01sN8XmjdFORvQmKnsN8XmjdGRXGNX4oLXNj8ssvFjRp0I5IEsKLps48GKAdAsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>
