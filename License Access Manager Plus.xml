@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo AccessManagerPlus " EmailID="crackmanageengine@gmail.com " ExpiryDate="2025-09-15" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSdJRdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblTfRbGaaTTupfVSNTTndGVQTSzdpbp91xfJdPXGPK9dN7yxuDDfdP7KTlTdPQ7nzlSfV7pA1bV9Ab7xPJV" LicenseType="Registered" Name="Demo AccessManagerPlus ">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="AccessManagerPlus" Type="AccessManagerPlus" Version="4.0.0"/>
+      <Component Name="AccessManager">
+         <Properties Name="ConnectionUsers" Value="10"/>
+         <Properties Name="TrialConnectionUsers" Value="20"/>
+         <Properties Name="ConnectionsTrialDate" Value="30"/>
+		 <Properties Name="FreeConnections" Value="40"/>
+      </Component>
+	  <Component Name="Users">
+         <Properties Name="admin" Value="10"/>
+         <Properties Name="resource" Value="20"/>
+         <Properties Name="organization" Value="10"/>
+         <Properties Name="LocalizedPMP" Value="20"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>0WpMpGv98LXYjl01Nj84X98NXiRj0WvYRKjsvR01N8mGXsRvsw0TsNj84YvNNjPvvRf0Vv4XdLX8RtsNj84YvNNjP0WsRvswNj84YvNNjPLX8Rt01sRvswNj84YvNNjPRviXNXMssvYYAGRXGNX4osKLpRviXNXMssvYYA0I0ITsKLpRviXNXMssvYYAdjdj</LicenseKey>
+</License>
