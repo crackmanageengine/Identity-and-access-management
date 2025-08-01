@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo RecoveryManager Plus " EmailID="crackmanageengine@gmail.com " ExpiryDate="2025-09-20" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcSdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblTfRbGaaTTnJbpSaRTnPJG7TKzJPfGSNSSndz9zSbTndSyubbdKuQGGPl7dNPGKTlPdPQ7nzlSfVuxANlf9cPTAzlp" LicenseType="Registered" Name="Demo RecoveryManager Plus ">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="ManageEngine RecoveryManager Plus" Type="Standard" Version="4.1.0.0"/>
+      <Component Name="Objects">
+         <Properties Name="NumberOfObjects" Value="10"/>
+      </Component>
+      <Component Name="VSPHEREHOSTS">
+         <Properties Name="NumberOfHosts" Value="20"/>
+      </Component>
+      <Component Name="WINDOWSSERVERS">
+         <Properties Name="NumberOfServers" Value="10"/>
+      </Component>
+      <Component Name="MAILBOXES">
+         <Properties Name="NumberOfMailboxes" Value="20"/>
+      </Component>
+      <Component Name="EXPORTTOPST">
+         <Properties Name="NumberOfExports" Value="30"/>
+      </Component>
+      <Component Name="SHAREPOINT">
+         <Properties Name="NumberOfSharePointSites" Value="20"/>
+      </Component>
+      <Component Name="ONEDRIVE">
+         <Properties Name="NumberOfOneDriveSites" Value="30"/>
+      </Component>
+      <Component Name="AZURE">
+         <Properties Name="NumberOfObjects" Value="40"/>
+      </Component>
+      <Component Name="GOOGLEWORKSPACE">
+         <Properties Name="NumberOfGoogleUsers" Value="30"/>
+      </Component>
+      <Component Name="ZOHOWORKDRIVE">
+         <Properties Name="NumberOfZohoUsers" Value="20"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="614-866-999"/>
+         <Properties Name="LicenseID" Value="614-866-999"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpZZZU66EUT16djvsNvY8lZZZU66EUT16djRvmj4sKPsL8X4vdvsNvY8l0WsRvswjCjuFORvQmKngejrdzrOaOhOu0VsRvswvLijjDFORvQmKngPApozrOaglDOOD0Ts4YvJQOFORvQmKngrwuA0Vsv48ov38RdvNOFORvQmKngejrdgnO0Wsv48o4N8jpvRXCoFORvQmKntnjOpgrAho0Vs4RjH2gFORvQmKntopOttrOpxg0Wsv2jQL8XMFORvQmKnogxObljAM01sRv3RvoFORvQmKnorgergooaOdnja0Ws4sjhFORvQmKnotoOhgrghpoe01s4YvJQOFORvQmKns4YvJQOGRXGNX4oGRXGNX4o0I0I1ITsKLpsRviXNXMkRv3jYvrsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
